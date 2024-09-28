@@ -1,0 +1,10 @@
+{
+  "type": "app",
+  "name": "route-manager",
+  "title": "Route Manager",
+  "version": "99.9.9",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
