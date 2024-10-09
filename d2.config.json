@@ -4,7 +4,7 @@
   "name": "route-manager",
   "title": "Route Manager",
   "minDHIS2Version": "2.40",
-  "version": "100.0.2",
+  "version": "100.1.0",
   "description": "",
   "entryPoints": {
     "app": "index.html"

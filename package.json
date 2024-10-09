@@ -1,6 +1,6 @@
 {
     "name": "route-manager",
-    "version": "100.0.2",
+    "version": "100.1.0",
     "description": "",
     "license": "BSD-3-Clause",
     "private": true,
@@ -16,7 +16,7 @@
         "format:staged": "d2-style apply --staged"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^12.0.0-alpha.14",
+        "@dhis2/cli-app-scripts": "^12.0.0-alpha.17",
         "@dhis2/cli-style": "^10.7.4",
         "@types/jest": "^29.5.13",
         "@typescript-eslint/eslint-plugin": "^8.7.0",
