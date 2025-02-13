@@ -1,0 +1,31 @@
+{
+    "name": "route-manager",
+    "version": "100.3.4",
+    "description": "",
+    "license": "BSD-3-Clause",
+    "private": true,
+    "scripts": {
+        "build": "d2-app-scripts build",
+        "start": "d2-app-scripts start",
+        "test": "d2-app-scripts test",
+        "deploy": "d2-app-scripts deploy",
+        "tsc": "tsc --noEmit",
+        "lint": "yarn tsc && d2-style check",
+        "lint:staged": "d2-style check --staged",
+        "format": "d2-style apply",
+        "format:staged": "d2-style apply --staged"
+    },
+    "devDependencies": {
+        "@dhis2/cli-app-scripts": "^12.3.0",
+        "@dhis2/cli-style": "^10.7.6",
+        "@testing-library/dom": "^10.4.0",
+        "@testing-library/react": "^16.2.0",
+        "@types/jest": "^29.5.13",
+        "@types/react": "^19.0.8",
+        "@types/react-dom": "^19.0.3"
+    },
+    "dependencies": {
+        "@dhis2/app-runtime": "^3.13.2",
+        "@dhis2/ui": "^10.1.11"
+    }
+}
