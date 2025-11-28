@@ -4,7 +4,7 @@
   "short_name": "route-manager",
   "name": "Route Manager",
   "description": "",
-  "version": "100.4.3",
+  "version": "100.5.0",
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Nov 27 2025 13:12:25 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Nov 28 2025 10:54:47 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
